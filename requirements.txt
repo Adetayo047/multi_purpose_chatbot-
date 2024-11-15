@@ -1,0 +1,11 @@
+protobuf==3.20.3
+transformers 
+sentencepiece 
+torch 
+bitsandbytes 
+accelerate 
+langchain-community 
+chromadb 
+gradio
+python-dotenv
+huggingface_hub
