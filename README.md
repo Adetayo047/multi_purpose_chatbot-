@@ -39,3 +39,6 @@ This code implements a multi-purpose chatbot using the `transformers` library an
 
 
 **Overall:** The code provides a functional foundation for a multi-purpose chatbot. Addressing the mentioned points will significantly improve its robustness, security, and performance.
+
+
+![image](https://github.com/user-attachments/assets/886f23f2-0f7e-4419-87a3-2cce8229074f)
